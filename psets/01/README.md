@@ -17,7 +17,7 @@ The basic flow of work for the course will be the following:
 1. You'll receive the URL of a problem set repository, say XYZ, via email. The repository will be stored on GitHub. You'll use the unix `git clone` command (or the appropriate GitHub GUI) on your local machine to clone the repository to an appropriately placed directory on your computer. If you're using the Unix command line, you'll type something like:
 
    ```bash
-   > cd /pathto/cs3366/
+   > cd /pathto/cs2254/
    > git clone XYZ
    ...
    ```
@@ -25,7 +25,7 @@ The basic flow of work for the course will be the following:
 2. You'll use an editor to design, develop and test your solution. You should commit your work to your local git repository periodically. When your work is ready to submit, you'll transfer your local working repository to a problem set repository on the GitHub course website that the course staff shares with you (and your partner if you have one).  This upload is done with `git push`. If you're using the Unix command line:
 
    ```bash
-   > cd /pathto/cs3366/XYZ
+   > cd /pathto/cs2254/XYZ
    > git push
    ...
    ```
