@@ -72,17 +72,25 @@ Whether you're using a Mac or a Windows system, your workflow should be the same
 
 Create a file **one.html** that generates the following HTML table. Note that the header cells each have 20 pixel padding.
 
-![one](/Users/muller/teaching/cs2254/s17/dev/psets/01/solution/one.jpg)
+
+
+![one](./img/one.jpg)
 
 #### Problem 2 (3 points)####
 
 Create a file **two.html** that generates the following image.
 
-![two](/Users/muller/teaching/cs2254/s17/dev/psets/01/solution/two.jpg)
+
+
+![two](./img/two.jpg)
+
+
 
 #### Problem 3 (4 points)####
 
 Create a file **three.html** that generates the following image consisting of 4 divs.
 
-![three](/Users/muller/teaching/cs2254/s17/dev/psets/01/solution/three.jpg)
+
+
+![three](./img/three.jpg)
 
