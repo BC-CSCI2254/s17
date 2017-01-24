@@ -68,6 +68,15 @@ Whether you're using a Mac or a Windows system, your workflow should be the same
 
 ## Part 2: HTML and CSS##
 
+For each of the following three problems, you're required to create an HTML file. Once you've created your file and you've worked out a solution, be sure to add your files to your git repository.
+
+```
+> git add one.html
+> git commit -m "creation of file containing solution to part 1"
+...
+> git push    # ship my work to GitHub for grading
+```
+
 #### Problem 1 (3 points)####
 
 Create a file **one.html** that generates the following HTML table. Note that the header cells each have 20 pixel padding.
