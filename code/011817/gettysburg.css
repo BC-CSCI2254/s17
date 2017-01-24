@@ -1,0 +1,13 @@
+ body {
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+p.change {
+  background-color: orange;
+}
+
+}
+h1 {
+    color: gray;
+}
