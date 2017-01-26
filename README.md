@@ -11,28 +11,32 @@
 
 **Teaching Assistants:**
 
-+ Shaan Bijwadia : Hours TBA.
-+ Ben Keene: Hours TBA.
++ Shaan Bijwadia: Tuesday at 1-3pm and Thursday from 2-3pm
++ Will Bowditch.
++ Ben Keene: Monday 8PM - 10PM and Thursday 10PM - 12AM.
++ .
 
 
 
 ##Schedule##
 
-| Mtng | Date | Topic                                    | Notes / Code                             | Psets |
-| :--: | :--: | :--------------------------------------- | :--------------------------------------- | :---- |
-|  1   | 1/18 | Introduction and Overview                | [011817.md](notes/011817.md) /[code](code/011817/) |       |
-|  2   | 1/20 | git & GitHub; HTML                       |                                          |       |
-|  3   | 1/23 | More HTML; Markdown                      |                                          |       |
-|  4   | 1/25 | HTML & CSS                               |                                          | 1 Out |
-|  5   | 1/27 | CSS3 Flex Layout                         |                                          |       |
-|  6   | 1/30 |                                          |                                          |       |
-|  7   | 2/1  | CSS                                      |                                          |       |
-|  8   | 2/3  | JavaScript & the Document Object Model (DOM) |                                          |       |
-|  9   | 2/6  | JavasScript; Working with the DOM        |                                          |       |
-|  10  | 2/8  | JSON                                     |                                          |       |
-|  11  | 2/10 |                                          |                                          |       |
+| Mtng |      | Date | Topic                                    | Notes / Code                             | Psets |
+| :--: | :--: | :--: | :--------------------------------------- | :--------------------------------------- | :---- |
+|  1   |  W   | 1/18 | Introduction and Overview                | [011817.md](notes/011817.md) /[code](code/011817/) |       |
+|  2   |  F   | 1/20 | git & GitHub; HTML                       |                                          |       |
+|  3   |  M   | 1/23 | More HTML; Markdown                      |                                          |       |
+|  4   |  W   | 1/25 | CSS; Selectors                           |                                          | 1 Out |
+|  5   |  F   | 1/27 | CSS3 Flex Layout                         |                                          |       |
+|  6   |  M   | 1/30 | SVG                                      |                                          |       |
+|  7   |  W   | 2/1  | HTML Forms                               |                                          |       |
+|  8   |  F   | 2/3  | JavaScript                               |                                          |       |
+|  9   |  M   | 2/6  | JavaScript                               |                                          |       |
+|  10  |  W   | 2/8  | JavaScript & the Document Object Model (DOM) |                                          |       |
+|  11  |  F   | 2/10 | JavasScript; Working with the DOM        |                                          |       |
 
 
+
+---
 
 ##Problem Sets + Project##
 
