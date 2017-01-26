@@ -25,7 +25,7 @@
 |  1   |  W   | 1/18 | Introduction and Overview                | [011817.md](notes/011817.md) /[code](code/011817/) |       |
 |  2   |  F   | 1/20 | git & GitHub; HTML                       |                                          |       |
 |  3   |  M   | 1/23 | More HTML; Markdown                      |                                          |       |
-|  4   |  W   | 1/25 | CSS; Selectors                           |                                          | 1 Out |
+|  4   |  W   | 1/25 | CSS; Selectors                           | [012517.md](notes/012517.md)             | 1 Out |
 |  5   |  F   | 1/27 | CSS3 Flex Layout                         |                                          |       |
 |  6   |  M   | 1/30 | SVG                                      |                                          |       |
 |  7   |  W   | 2/1  | HTML Forms                               |                                          |       |
