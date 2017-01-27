@@ -23,7 +23,7 @@
 | Mtng |      | Date | Topic                                    | Notes / Code                             | Psets |
 | :--: | :--: | :--: | :--------------------------------------- | :--------------------------------------- | :---- |
 |  1   |  W   | 1/18 | Introduction and Overview                | [011817.md](notes/011817.md) /[code](code/011817/) |       |
-|  2   |  F   | 1/20 | git & GitHub; HTML                       |                                          |       |
+|  2   |  F   | 1/20 | git & GitHub; HTML                       | [012017.md](./notes/012017.md)           |       |
 |  3   |  M   | 1/23 | More HTML; Markdown                      | [012317.md](notes/012317.md)             |       |
 |  4   |  W   | 1/25 | CSS; Selectors                           | [012517.md](notes/012517.md)             | 1 Out |
 |  5   |  F   | 1/27 | CSS3 Flex Layout                         |                                          |       |
