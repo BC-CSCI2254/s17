@@ -12,9 +12,12 @@
 **Teaching Assistants:**
 
 + Shaan Bijwadia: Tuesday at 1-3pm and Thursday from 2-3pm
-+ Will Bowditch.
+
++ Will Bowditch: TBA.
+
 + Ben Keene: Monday 8PM - 10PM and Thursday 10PM - 12AM.
-+ .
+
+  ​
 
 
 
@@ -22,11 +25,11 @@
 
 | Mtng |      | Date | Topic                                    | Notes / Code                             | Psets |
 | :--: | :--: | :--: | :--------------------------------------- | :--------------------------------------- | :---- |
-|  1   |  W   | 1/18 | Introduction and Overview                | [011817.md](notes/011817.md) /[code](code/011817/) |       |
+|  1   |  W   | 1/18 | Introduction and Overview                | [011817.md](notes/011817.md) / [code](code/011817/) |       |
 |  2   |  F   | 1/20 | git & GitHub; HTML                       | [012017.md](./notes/012017.md)           |       |
 |  3   |  M   | 1/23 | More HTML; Markdown                      | [012317.md](notes/012317.md)             |       |
 |  4   |  W   | 1/25 | CSS; Selectors                           | [012517.md](notes/012517.md)             | 1 Out |
-|  5   |  F   | 1/27 | CSS3 Flex Layout                         |                                          |       |
+|  5   |  F   | 1/27 | CSS3 Flex Layout                         | [012717.md](./notes/012717.md)           |       |
 |  6   |  M   | 1/30 | SVG                                      |                                          |       |
 |  7   |  W   | 2/1  | HTML Forms                               |                                          |       |
 |  8   |  F   | 2/3  | JavaScript                               |                                          |       |
