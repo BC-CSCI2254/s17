@@ -32,7 +32,7 @@
 |  5   |  F   | 1/27 | CSS3 Flex Layout                         | [012717.md](./notes/012717.md)           |       |
 |  6   |  M   | 1/30 | SVG                                      |                                          |       |
 |  7   |  W   | 2/1  | HTML Forms                               |                                          |       |
-|  8   |  F   | 2/3  | JavaScript                               |                                          |       |
+|  8   |  F   | 2/3  | JavaScript                               | [020317](./notes/020317/)                |       |
 |  9   |  M   | 2/6  | JavaScript; action listeners             |                                          |       |
 |  10  |  W   | 2/8  | JavaScript & the Document Object Model (DOM) |                                          |       |
 |  11  |  F   | 2/10 | JavaScript; Working with the DOM         |                                          |       |
