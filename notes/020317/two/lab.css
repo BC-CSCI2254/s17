@@ -1,0 +1,26 @@
+
+.container {
+  margin: 50px auto;
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  border:20px solid chocolate
+}
+
+.item {
+  width:  400px;
+  height: 400px;
+}
+
+.a {
+  background-image: url(https://unsplash.it/400/?random)
+}
+.b {
+  background-image: url(https://unsplash.it/400/?image=1080)
+}
+.c {
+  background-image: url(https://unsplash.it/400/?image=1074)
+}
+.d {
+  background-image: url(https://unsplash.it/400/?random)
+}
