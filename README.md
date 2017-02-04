@@ -30,18 +30,18 @@
 |  3   |  M   | 1/23 | More HTML; Markdown                      | [012317.md](notes/012317.md)             |       |
 |  4   |  W   | 1/25 | CSS; Selectors                           | [012517.md](notes/012517.md)             | 1 Out |
 |  5   |  F   | 1/27 | CSS3 Flex Layout                         | [012717.md](./notes/012717.md)           |       |
-|  6   |  M   | 1/30 | SVG                                      |                                          |       |
-|  7   |  W   | 2/1  | HTML Forms                               |                                          |       |
-|  8   |  F   | 2/3  | JavaScript                               | [020317](./notes/020317/)                |       |
-|  9   |  M   | 2/6  | JavaScript; action listeners             |                                          |       |
-|  10  |  W   | 2/8  | JavaScript & the Document Object Model (DOM) |                                          |       |
-|  11  |  F   | 2/10 | JavaScript; Working with the DOM         |                                          |       |
-|  12  |  M   | 2/13 | JavaScript; Working with the DOM         |                                          |       |
-|  13  |  W   | 2/15 |                                          |                                          |       |
-|  14  |  F   | 2/17 |                                          |                                          |       |
-|  15  |  M   | 2/20 |                                          |                                          |       |
-|  16  |  W   | 2/22 |                                          |                                          |       |
-|  17  |  F   | 2/24 | **First Exam**                           |                                          |       |
+|      |  M   | 1/30 | NO MEETING                               |                                          |       |
+|  6   |  W   | 2/1  | HTML Forms                               | [020117](./notes/020117.md)              |       |
+|  7   |  F   | 2/3  | In Class Lab: CSS, Fonts & Images        | [020317](./notes/020317/)                |       |
+|  8   |  M   | 2/6  | JavaScript                               |                                          |       |
+|  9   |  W   | 2/8  | JavaScript & the Document Object Model (DOM) |                                          |       |
+|  10  |  F   | 2/10 | JavaScript; Working with the DOM         |                                          |       |
+|  11  |  M   | 2/13 | JavaScript; Working with the DOM         |                                          |       |
+|  12  |  W   | 2/15 |                                          |                                          |       |
+|  13  |  F   | 2/17 |                                          |                                          |       |
+|  14  |  M   | 2/20 |                                          |                                          |       |
+|  15  |  W   | 2/22 |                                          |                                          |       |
+|  16  |  F   | 2/24 | **First Exam**                           |                                          |       |
 
 ---
 
