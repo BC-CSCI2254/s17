@@ -31,8 +31,8 @@
 |  4   |  W   | 1/25 | CSS; Selectors                           | [012517.md](notes/012517.md)             | 1 Out |
 |  5   |  F   | 1/27 | CSS3 Flex Layout                         | [012717.md](./notes/012717.md)           |       |
 |      |  M   | 1/30 | NO MEETING                               |                                          |       |
-|  6   |  W   | 2/1  | HTML Forms                               | [020117](./notes/020117.md)              |       |
-|  7   |  F   | 2/3  | In Class Lab: CSS, Fonts & Images        | [020317](./notes/020317/)                |       |
+|  6   |  W   | 2/1  | HTML Forms                               | [020117.md](./notes/020117.md)           |       |
+|  7   |  F   | 2/3  | In Class Lab: CSS, Fonts & Images        | [020317/](./notes/020317/)               |       |
 |  8   |  M   | 2/6  | JavaScript                               |                                          |       |
 |  9   |  W   | 2/8  | JavaScript & the Document Object Model (DOM) |                                          |       |
 |  10  |  F   | 2/10 | JavaScript; Working with the DOM         |                                          |       |
