@@ -32,11 +32,11 @@
 |  5   |  F   | 1/27 | CSS3 Flex Layout                         | [012717.md](./notes/012717.md)           |       |
 |      |  M   | 1/30 | NO MEETING                               |                                          |       |
 |  6   |  W   | 2/1  | HTML Forms                               | [020117.md](./notes/020117.md)           |       |
-|  7   |  F   | 2/3  | In Class Lab: CSS, Fonts & Images        | [020317/](./notes/020317/)               |       |
-|  8   |  M   | 2/6  | JavaScript                               |                                          |       |
+|  7   |  F   | 2/3  | In Class Lab: CSS, Fonts & Images        | [code](./notes/020317/)               |       |
+|  8   |  M   | 2/6  | JavaScript the Basics                    | [020617.md](.notes/020617.md) |       |
 |  9   |  W   | 2/8  | JavaScript & the Document Object Model (DOM) |                                          |       |
-|  10  |  F   | 2/10 | JavaScript; Working with the DOM         |                                          |       |
-|  11  |  M   | 2/13 | JavaScript; Working with the DOM         |                                          |       |
+|  10  |  F   | 2/10 | JavaScript; Events                       |                                          |       |
+|  11  |  M   | 2/13 | JavaScript;                              |                                          |       |
 |  12  |  W   | 2/15 |                                          |                                          |       |
 |  13  |  F   | 2/17 |                                          |                                          |       |
 |  14  |  M   | 2/20 |                                          |                                          |       |
