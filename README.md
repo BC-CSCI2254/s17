@@ -49,13 +49,13 @@
 |      |  W   | 3/8  | **SPRING BREAK**                         |                                          |       |
 |      |  F   | 3/10 | **SPRING BREAK**                         |                                          |       |
 |  20  |  M   | 3/13 | Modular VJS: People Adder App            | [code](./notes/031317/)                  |       |
-|  21  |  W   | 3/15 |                                          |                                          |       |
-|  22  |  F   | 3/17 |                                          |                                          |       |
+|  21  |  W   | 3/15 | MISSED; Classwork on PS4                 |                                          |       |
+|  22  |  F   | 3/17 | How the Web Works                        |                                          |       |
 |  23  |  M   | 3/20 |                                          |                                          |       |
 |  24  |  W   | 3/22 |                                          |                                          |       |
-|  25  |  F   | 3/24 |                                          |                                          |       |
-|  26  |  M   | 3/27 |                                          |                                          |       |
-|  27  |  W   | 3/29 |                                          |                                          |       |
+|  25  |  F   | 3/24 | Node + Express                           |                                          |       |
+|  26  |  M   | 3/27 | Node + Express                           | [032717.md](./notes/032717.md)           |       |
+|  27  |  W   | 3/29 | Node + Express, Server-Side Rendering    |                                          |       |
 |  28  |  F   | 3/31 |                                          |                                          |       |
 |  29  |  M   | 4/3  |                                          |                                          |       |
 |  30  |  W   | 4/5  |                                          |                                          |       |
