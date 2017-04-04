@@ -43,7 +43,7 @@
 |  15  |  W   | 2/22 | MISSED                                   |                                          |       |
 |  16  |  F   | 2/24 | MISSED                                   |                                          |       |
 |  17  |  M   | 2/27 | Reivew of Solution to 15 Puzzle          |                                          |       |
-|  18  |  W   | 3/1  | **First Exam**                           |                                          |       |
+|  18  |  W   | 3/1  | **First Exam**                           | [firstKey.pdf](./resources/firstKey.pdf) |       |
 |  19  |  F   | 3/3  | Return & Review First Exam               |                                          |       |
 |      |  M   | 3/6  | **SPRING BREAK**                         |                                          |       |
 |      |  W   | 3/8  | **SPRING BREAK**                         |                                          |       |
