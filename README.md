@@ -58,8 +58,8 @@
 |  27  |  W   | 3/29 | Node + Express, Server-Side Rendering    |                                          |       |
 |  28  |  F   | 3/31 |                                          |                                          |       |
 |  29  |  M   | 4/3  |                                          |                                          |       |
-|  30  |  W   | 4/5  |                                          |                                          |       |
-|  31  |  F   | 4/7  | **Second Exam**                          |                                          |       |
+|  30  |  W   | 4/5  | **Second Exam**                          | [secondKey.pdf](./resources/secondKey.pdf) |       |
+|  31  |  F   | 4/7  |                                          |                                          |       |
 |  32  |  M   | 4/10 |                                          |                                          |       |
 |  33  |  W   | 4/12 |                                          |                                          |       |
 |      |  F   | 4/14 | **NO CLASS**                             |                                          |       |
