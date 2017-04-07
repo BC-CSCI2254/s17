@@ -57,19 +57,19 @@
 |  26  |  M   | 3/27 | Node + Express                           | [032717.md](./notes/032717.md)           |       |
 |  27  |  W   | 3/29 | Node + Express, Server-Side Rendering    |                                          |       |
 |  28  |  F   | 3/31 |                                          |                                          |       |
-|  29  |  M   | 4/3  |                                          |                                          |       |
+|  29  |  M   | 4/3  | Boilerplates                             |                                          |       |
 |  30  |  W   | 4/5  | **Second Exam**                          | [secondKey.pdf](./resources/secondKey.pdf) |       |
 |  31  |  F   | 4/7  |                                          |                                          |       |
 |  32  |  M   | 4/10 |                                          |                                          |       |
 |  33  |  W   | 4/12 |                                          |                                          |       |
 |      |  F   | 4/14 | **NO CLASS**                             |                                          |       |
 |      |  M   | 4/17 | **NO CLASS**                             |                                          |       |
-|  34  |  W   | 4/19 |                                          |                                          |       |
+|  34  |  W   | 4/19 | Vue.js                                   |                                          |       |
 |  35  |  F   | 4/21 |                                          |                                          |       |
 |  36  |  M   | 4/24 |                                          |                                          |       |
-|  37  |  W   | 4/26 |                                          |                                          |       |
-|  38  |  F   | 4/28 |                                          |                                          |       |
-|  39  |  M   | 5/1  |                                          |                                          |       |
+|  37  |  W   | 4/26 | Security                                 |                                          |       |
+|  38  |  F   | 4/28 | Security                                 |                                          |       |
+|  39  |  M   | 5/1  | Project Presentations                    |                                          |       |
 |  40  |  W   | 5/3  | Last Meeting                             |                                          |       |
 
 ---
