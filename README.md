@@ -50,23 +50,23 @@
 |      |  F   | 3/10 | **SPRING BREAK**                         |                                          |       |
 |  20  |  M   | 3/13 | Modular VJS: People Adder App            | [code](./notes/031317/)                  |       |
 |  21  |  W   | 3/15 | MISSED; Classwork on PS4                 |                                          |       |
-|  22  |  F   | 3/17 | How the Web Works                        |                                          |       |
-|  23  |  M   | 3/20 |                                          |                                          |       |
-|  24  |  W   | 3/22 |                                          |                                          |       |
+|  22  |  F   | 3/17 | React Button Example                     |                                          |       |
+|  23  |  M   | 3/20 | Node                                     |                                          |       |
+|  24  |  W   | 3/22 | React + Node                             |                                          |       |
 |  25  |  F   | 3/24 | Node + Express                           |                                          |       |
 |  26  |  M   | 3/27 | Node + Express                           | [032717.md](./notes/032717.md)           |       |
 |  27  |  W   | 3/29 | Node + Express, Server-Side Rendering    |                                          |       |
 |  28  |  F   | 3/31 |                                          |                                          |       |
-|  29  |  M   | 4/3  | Boilerplates                             |                                          |       |
+|  29  |  M   | 4/3  | Boilerplates: npm; create-react-app      |                                          |       |
 |  30  |  W   | 4/5  | **Second Exam**                          | [secondKey.pdf](./resources/secondKey.pdf) |       |
-|  31  |  F   | 4/7  |                                          |                                          |       |
-|  32  |  M   | 4/10 |                                          |                                          |       |
-|  33  |  W   | 4/12 |                                          |                                          |       |
+|  31  |  F   | 4/7  | Exam Review; Group Project Work          |                                          |       |
+|  32  |  M   | 4/10 | Example: SVM - Console                   |                                          |       |
+|  33  |  W   | 4/12 | Example: SVM - Basic React               |                                          |       |
 |      |  F   | 4/14 | **NO CLASS**                             |                                          |       |
 |      |  M   | 4/17 | **NO CLASS**                             |                                          |       |
-|  34  |  W   | 4/19 | Vue.js                                   |                                          |       |
-|  35  |  F   | 4/21 |                                          |                                          |       |
-|  36  |  M   | 4/24 |                                          |                                          |       |
+|  34  |  W   | 4/19 | Tom Meagher on Vue.js               | [materials](https://github.com/tmm-archive/CSCI2254-lecture) |       |
+|  35  |  F   | 4/21 | Example: SVM - React                     |                                          |       |
+|  36  |  M   | 4/24 | React Lab                                |                                          |       |
 |  37  |  W   | 4/26 | Security                                 |                                          |       |
 |  38  |  F   | 4/28 | Security                                 |                                          |       |
 |  39  |  M   | 5/1  | Project Presentations                    |                                          |       |
@@ -119,4 +119,3 @@
 #### 8. Photo App####
 
 #### 9. PROJECT####
-
